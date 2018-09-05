@@ -26,6 +26,7 @@ body {
 	float: left;
 	display: inline-block;
 	padding: 1%;
+	box-sizing: border-box;
 }
 
 @media (max-width: 480px) {
